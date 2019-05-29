@@ -2,3 +2,33 @@
     margin: 40px 20px;
     color: #555;
 }
+
+.container h2{
+	text-align: center;
+}
+
+#category{
+	width: 80%;
+	margin: auto;
+    overflow:hidden;
+    border: 1px salmon solid;
+    padding: 10px;
+    border-radius: 15px; 
+    margin-bottom: 30px;
+}
+
+#category ul{
+    padding: 0; 
+    padding-left: 30px;
+    list-style: none;
+}
+
+#category li{
+    padding-bottom:6px;
+    border-bottom:dotted 1px #333;
+}
+
+#category a{
+	text-decoration: none;
+	color: #000;
+}
